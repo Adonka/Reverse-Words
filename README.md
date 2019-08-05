@@ -1,0 +1,2 @@
+# Reverse-Words-in-C
+Assignment: Write a program Character Pointers and Functions.  (like program #5-5).  Keyboard input to enter one character string.  Using a single dimension array, populate the array with the character string, call a function using pointers to reverse order the character string, pass back to the main the output and total_count_of_characters.  (maybe use a global variable for the total count).  Print display the reversed char string and total_count.
